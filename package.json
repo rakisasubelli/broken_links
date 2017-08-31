@@ -1,0 +1,28 @@
+{
+  "name": "broken_links",
+  "version": "1.0.0",
+  "description": "testing broken links for web site",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rakisasubelli/broken_links.git"
+  },
+  "author": "Ramakrishna s",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rakisasubelli/broken_links/issues"
+  },
+  "homepage": "https://github.com/rakisasubelli/broken_links#readme",
+  "dependencies": {
+    "body-parser": "^1.17.2",
+    "brkn": "^1.1.0",
+    "broken-link-checker": "^0.7.6",
+    "bs-broken-links-checker": "^0.2.0",
+    "express": "^4.15.4",
+    "node-linkchecker": "0.0.3",
+    "path": "^0.12.7"
+  }
+}
